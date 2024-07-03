@@ -1,4 +1,22 @@
 # Amazon-Project
+This project is designed to demonstrate a BDD framework using the Page Object Model pattern. It includes the following packages:
+- `BrowserControl`
+- `Features`
+- `PageObjects`
+- `StepDefinitions`
+- `Utilities`
+
+## Prerequisites
+
+- Java Development Kit (JDK) 8 or higher
+- Maven 3.6 or higher
+- IntelliJ IDEA
+- Git
+
+## Setup
+
+1. **Clone the repository:**
+   
 I have created page object model in intellij for that we need to add all the dependencise i pom.xml.
 After this we need to create a BDD framework.I have created different packages BrowserControl, Features, PageObjects, StepDefinations, Utilities..
 Test runner as a class
