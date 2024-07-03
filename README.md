@@ -17,6 +17,8 @@ This project is designed to demonstrate a BDD framework using the Page Object Mo
 
 1. **Clone the repository:**
    
+   SUMMARY
+   
 I have created page object model in intellij for that we need to add all the dependencise i pom.xml.
 After this we need to create a BDD framework.I have created different packages BrowserControl, Features, PageObjects, StepDefinations, Utilities..
 Test runner as a class
