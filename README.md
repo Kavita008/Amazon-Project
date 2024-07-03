@@ -30,5 +30,9 @@ StepDefinitions: Contains step definition classes that implement the steps in th
 Utilities: Contains utility classes for common reusable functions.
 TestRunner: Contains the test runner class that integrates Cucumber with JUnit.
 
+Cucumber report
+<img width="1438" alt="Screenshot 2024-07-04 at 00 02 43" src="https://github.com/Kavita008/Amazon-Project/assets/137656183/aeff9e21-8fb1-4f45-8146-a6ffa7493af8">
+
+
 
 
